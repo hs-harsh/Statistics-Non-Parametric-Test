@@ -1,6 +1,6 @@
 from math import comb
-X = "1 4 5"
-Y = "2 3 6 7"
+X = "15.40	15.20	12.43	16.29"
+Y = "14.90	17.57	16.87	9.47"
 # xyyxxyy
 X = ' '.join(X.split())
 Y = ' '.join(Y.split())
