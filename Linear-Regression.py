@@ -1,6 +1,6 @@
 import numpy as np
 X = "1	1.5	2	3	3.25	4	4.5	6"
-Y = "-5	 -4	-2.5	0	1	8	12	25"
+Y = "-4	 -3	 -1.5	-1	0	7	11	24"
 X = ' '.join(X.split())
 Y = ' '.join(Y.split())
 X = list(map(float, X.split(" ")))
